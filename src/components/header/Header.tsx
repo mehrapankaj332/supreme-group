@@ -12,7 +12,7 @@ const Header = () => (
       />
     </div>
     <nav className="flex gap-10 px-24 text-base font-medium">
-      <button className="md:block hidden bg-cyan-400 text-black px-4 py-2 rounded-3xl">
+      <button className="md:block hidden bg-cyan-400 text-black px-4 py-2 rounded-3xl cursor-pointer">
         About us
       </button>
     </nav>

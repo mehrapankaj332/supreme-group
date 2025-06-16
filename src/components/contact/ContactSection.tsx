@@ -58,7 +58,7 @@ const ContactSection = () => (
         />
         <button
           type="submit"
-          className="mt-4 bg-transparent border-1 border-amber-50 text-[#FFFFFF] px-8 py-2 rounded-full hover:bg-gray-100 hover:text-[#000000] transition w-[120px] self-start text-base"
+          className="mt-4 bg-transparent border-1 border-amber-50 text-[#FFFFFF] px-8 py-2 rounded-full hover:bg-gray-100 hover:text-[#000000] transition w-[120px] self-start text-base cursor-pointer"
         >
           Send
         </button>
